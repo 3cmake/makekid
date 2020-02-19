@@ -1,10 +1,10 @@
-{
+  {
     "name": "makekid",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "neopixel": "github:lzty634158/pxt-neopixel"
     },
     "files": [
         "README.md",
@@ -14,5 +14,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:f6d029b8-7d07-4df0-284d-f30f3900019d"
 }

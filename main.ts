@@ -6,7 +6,7 @@ load dependency
 //% color="#ECA40D" weight=20 icon="\u2708"
 //% groups="['1 Basic motor control','2 Advance motor control']"
 
-namespace MAKE3C {
+namespace MAKEKID {
 
     const PCA9685_ADD = 0x40
     const MODE1 = 0x00
